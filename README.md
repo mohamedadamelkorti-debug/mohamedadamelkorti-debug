@@ -78,10 +78,6 @@ My goal is to build a strong technical foundation and gradually grow into a well
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BUILD-LEARN-GROW-A78BFA?style=flat-square" />
-</p>
-
 <h3 align="center">
   <i>"Learning never stops. Neither does building."</i>
 </h3>
